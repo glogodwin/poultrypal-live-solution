@@ -1,7 +1,5 @@
 A digital solution for poultry health and farm management.
 
-Html
-
 <section id="screen" class="screen">
     <p>Click a button above to explore a feature!</p>
 </section>
@@ -25,8 +23,6 @@ Html
     <button>Add to Cart</button>
   </div>
 </div>
-
-Css
 
 /* Modal Styles */
 .modal {
@@ -59,8 +55,6 @@ Css
 .close:hover {
   color: red;
 }
-
-Javascript
 
 function showScreen(feature) {
     const screen = document.getElementById('screen');
